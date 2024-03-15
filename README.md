@@ -1,8 +1,4 @@
-# React + Vite
+<h1>React Tailwind Pixabay Image Gallery</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/engineeroguz/image-gallery-pixabay/assets/122749153/4e1143ff-8fca-4521-917b-6d2d0619d339
